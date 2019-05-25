@@ -1,0 +1,14 @@
+{
+    "python.pythonPath": "/Users/lyj/anaconda3/envs/robot-env/bin/python",
+    // // Python specific
+    "python.autoComplete.extraPaths": [
+        "~/anaconda3/envs/robot-env/lib/python3.6/site-packages"
+    ],
+    // "python.linting.pylintEnabled": true,
+    "python.linting.flake8Enabled": false,
+    "python.formatting.provider": "autopep8",
+    // "python.testing.unittestEnabled": false,
+    // "python.testing.pyTestEnabled": false,
+    // "python.testing.nosetestsEnabled": false,
+    // //  "python.linting.pylintPath": "${workspaceRoot}/venv/bin/pylint",
+}
